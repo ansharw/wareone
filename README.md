@@ -1,0 +1,2 @@
+# wareone
+Proyek pemula
